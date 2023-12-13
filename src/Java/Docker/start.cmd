@@ -1,0 +1,1 @@
+docker-compose -p 22-java up -d

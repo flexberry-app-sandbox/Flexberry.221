@@ -1,0 +1,54 @@
+﻿{
+  "name": "IIS22Склады",
+  "modelName": "i-i-s-22-склады",
+  "className": "Склады",
+  "nameSpace": "IIS.22",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "склад",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "СкладыE",
+      "modelName": "i-i-s-22-склады",
+      "attrs": [
+        {
+          "name": "склад",
+          "caption": "Склад",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "СкладыL",
+      "modelName": "i-i-s-22-склады",
+      "attrs": [
+        {
+          "name": "склад",
+          "caption": "Склад",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

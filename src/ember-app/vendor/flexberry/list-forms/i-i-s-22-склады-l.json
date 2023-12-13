@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-22-склады-e",
+  "editForm": "i-i-s-22-склады-e",
+  "external": false,
+  "caption": "Склады",
+  "name": "IIS22СкладыL",
+  "className": "СкладыL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-22-склады",
+      "modelProjection": "СкладыL"
+    }
+  ]
+}

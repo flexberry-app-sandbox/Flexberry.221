@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-22-отчет-о-зак-e",
+  "editForm": "i-i-s-22-отчет-о-зак-e",
+  "external": false,
+  "caption": "Отчет о зак",
+  "name": "IIS22ОтчетОЗакL",
+  "className": "ОтчетОЗакL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-22-отчет-о-зак",
+      "modelProjection": "ОтчетОЗакL"
+    }
+  ]
+}

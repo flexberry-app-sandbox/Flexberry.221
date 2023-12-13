@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-22-единицы-измер-e",
+  "editForm": "i-i-s-22-единицы-измер-e",
+  "external": false,
+  "caption": "Единицы измер",
+  "name": "IIS22ЕдиницыИзмерL",
+  "className": "ЕдиницыИзмерL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-22-единицы-измер",
+      "modelProjection": "ЕдиницыИзмерL"
+    }
+  ]
+}

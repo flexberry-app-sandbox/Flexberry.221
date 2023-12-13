@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-22-план-закупок-e",
+  "editForm": "i-i-s-22-план-закупок-e",
+  "external": false,
+  "caption": "План закупок",
+  "name": "IIS22ПланЗакупокL",
+  "className": "ПланЗакупокL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-22-план-закупок",
+      "modelProjection": "ПланЗакупокL"
+    }
+  ]
+}

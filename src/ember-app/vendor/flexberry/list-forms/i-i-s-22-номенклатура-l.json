@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-22-номенклатура-e",
+  "editForm": "i-i-s-22-номенклатура-e",
+  "external": false,
+  "caption": "Номенклатура",
+  "name": "IIS22НоменклатураL",
+  "className": "НоменклатураL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-22-номенклатура",
+      "modelProjection": "НоменклатураL"
+    }
+  ]
+}
